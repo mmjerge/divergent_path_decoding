@@ -1,0 +1,242 @@
+[
+  {
+    "subject": "anatomy",
+    "question": "The palatine processes begin to fuse at",
+    "choices": [
+      "six weeks post-fertilization.",
+      "eight weeks post-fertilization.",
+      "ten weeks post-fertilization.",
+      "twelve weeks post-fertilization."
+    ],
+    "correct_answer": 2,
+    "prompt_used": "Question: The palatine processes begin to fuse at\nA) six weeks post-fertilization.\nB) eight weeks post-fertilization.\nC) ten weeks post-fertilization.\nD) twelve weeks post-fertilization.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: The palatine processes begin to fuse at\nA) six weeks post-fertilization.\nB) eight weeks post-fertilization.\nC) ten weeks post-fertilization.\nD) twelve weeks post-fertilization.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe palatine processes are two shelves of tissue that grow from the sides of the mouth and eventually fuse to form the hard palate. This process is crucial for the development of the oral cavity. The fusion of the palatine processes typically begins around 8 weeks post-fertilization, as the tissue starts to come together and form a solid plate. This is an essential step in the development of the face and oral cavity, and any disruptions to this process can lead to cleft palate or other abnormalities.\n\nFinal Answer: B\nExplanation: The palatine processes begin to fuse at eight weeks post-fertilization, marking a critical stage in the development of the oral cavity. This process is essential for the formation of the hard palate and any disruptions can lead to cleft palate or other abnormalities. The correct answer is B) eight weeks post-fertilization. \n\nNote: The other options are incorrect because the palatine processes do not begin to fuse at six weeks (A), ten weeks (C), or twelve weeks (D) post-fertilization. The correct timeline is around eight weeks post-fertilization. \n\nThis response is within the 200-word limit and provides a concise explanation of the process, followed by the final answer.  The explanation",
+    "strategic_text": "Question: The palatine processes begin to fuse at\nA) six weeks post-fertilization.\nB) eight weeks post-fertilization.\nC) ten weeks post-fertilization.\nD) twelve weeks post-fertilization.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe palatate processes are two bony structures that grow from the maxillary bones and eventually fuse to form the hard palate. This process begins around 6-8 weeks post-fertilization. The fusion of the palatine processes is a critical step in the development of the oral cavity, as it allows for the formation of a solid roof over the mouth. \n\nThe correct answer is B) eight weeks post-fertilization. This is because the palatine processes begin to fuse around 6-8 weeks post-fertilization, with the fusion being complete by around 12 weeks post-fertilization. Therefore, option B is the most accurate answer. \n\nFinal Answer: B\nExplanation: The palatine processes begin to fuse around 6-8 weeks post-fertilization, with the fusion being complete by around 12 weeks post-fertilization. This process is a critical step in the development of the oral cavity. Therefore, the correct answer is B) eight weeks post-fertilization.  was not correct, as the palatine processes begin to fuse before 10 weeks post-fertilization.  was also not correct, as the palatine processes begin to fuse before 12 weeks post-fertilization.  was",
+    "token_change": {
+      "step": 5,
+      "regular_token": "ine",
+      "strategic_token": "ate",
+      "position_in_text": 376
+    },
+    "token_counts": {
+      "regular_token_count": 341,
+      "strategic_token_count": 341
+    }
+  },
+  {
+    "subject": "anatomy",
+    "question": "Primary motor cortex activity results in",
+    "choices": [
+      "bilateral contraction of antigravity limb muscles.",
+      "bilateral contraction of limb musculature.",
+      "contraction of ipsilateral limb musculature.",
+      "contraction of contralateral limb musculature."
+    ],
+    "correct_answer": 3,
+    "prompt_used": "Question: Primary motor cortex activity results in\nA) bilateral contraction of antigravity limb muscles.\nB) bilateral contraction of limb musculature.\nC) contraction of ipsilateral limb musculature.\nD) contraction of contralateral limb musculature.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: Primary motor cortex activity results in\nA) bilateral contraction of antigravity limb muscles.\nB) bilateral contraction of limb musculature.\nC) contraction of ipsilateral limb musculature.\nD) contraction of contralateral limb musculature.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe primary motor cortex is responsible for controlling voluntary movements. When the primary motor cortex is active, it sends signals to the spinal cord and brainstem, which then transmit these signals to the muscles of the body. This results in the contraction of specific muscles, leading to movement. The key point to understand is that the primary motor cortex controls the opposite side of the body from where the activity is occurring. This is known as contralateral control. Therefore, when the primary motor cortex on one side of the brain is active, it results in the contraction of the muscles on the opposite side of the body.\n\nFinal Answer: D\nExplanation: The primary motor cortex activity results in contraction of contralateral limb musculature. This is because the primary motor cortex controls the opposite side of the body from where the activity is occurring, a concept known as contralateral control. Therefore, when the primary motor cortex on one side of the brain is active, it results in the contraction of the muscles on the opposite side of the body. This makes option D the correct answer. Options A, B, and C are incorrect because they do not accurately describe the relationship between primary motor cortex activity and muscle contraction.  A) bilateral contraction of antigravity limb muscles is incorrect because",
+    "strategic_text": "Question: Primary motor cortex activity results in\nA) bilateral contraction of antigravity limb muscles.\nB) bilateral contraction of limb musculature.\nC) contraction of ipsilateral limb musculature.\nD) contraction of contralateral limb musculature.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe primary motor cortical area is responsible for controlling voluntary movements. When this area is active, it sends signals to the spinal cord, which then sends signals to the muscles of the body. The key point to understand is that the primary motor cortex is responsible for controlling the contralateral side of the body. This means that when the primary motor cortex on one side of the brain is active, it results in the contraction of muscles on the opposite side of the body.\n\nTherefore, the correct answer is D) contraction of contralateral limb musculature. This is because the primary motor cortex activity results in the contraction of muscles on the opposite side of the body, not the same side (C), or both sides (A and B), or the ipsilateral side (C). \n\nThe final answer is D. (Contralateral limb musculature)  (ANSWER: D)  (Contralateral limb musculature)  (ANSWER: D)  (Contralateral limb musculature)  (ANSWER: D)  (Contralateral limb musculature)  (ANSWER: D)  (Contralateral limb musculature)  (ANSWER: D)  (Contralateral limb muscul",
+    "token_change": {
+      "step": 5,
+      "regular_token": " cortex",
+      "strategic_token": " cortical",
+      "position_in_text": 450
+    },
+    "token_counts": {
+      "regular_token_count": 346,
+      "strategic_token_count": 346
+    }
+  },
+  {
+    "subject": "anatomy",
+    "question": "You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the",
+    "choices": [
+      "hard palate.",
+      "hard palate and upper lip.",
+      "hard palate, upper lip and upper central incisor.",
+      "hard palate, upper lip, upper central incisor and lower first molar."
+    ],
+    "correct_answer": 3,
+    "prompt_used": "Question: You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the\nA) hard palate.\nB) hard palate and upper lip.\nC) hard palate, upper lip and upper central incisor.\nD) hard palate, upper lip, upper central incisor and lower first molar.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the\nA) hard palate.\nB) hard palate and upper lip.\nC) hard palate, upper lip and upper central incisor.\nD) hard palate, upper lip, upper central incisor and lower first molar.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe submandibular lymph nodes are located in the neck, below the jawline. They are responsible for draining the anterior two-thirds of the tongue, the floor of the mouth, the hard palate, the upper lip, and the lower teeth, including the lower first molar. When these lymph nodes are enlarged, it suggests that there is an infection or inflammation in one of these areas. Therefore, when evaluating an enlarged submandibular lymph node, it is essential to examine the potential infection sites, which include the hard palate, upper lip, and lower teeth, including the lower first molar.\n\nFinal Answer: D\nExplanation: The correct answer is D, as it includes all the potential infection sites that drain to the submandibular lymph nodes. The hard palate, upper lip, and lower teeth, including the lower first molar, are all areas that can cause an infection or inflammation that would lead to enlarged submandibular lymph nodes. The other options are incomplete, as they do not include all the necessary areas to evaluate. Option A only includes the hard palate, which is not sufficient. Option B includes the hard palate and upper lip, but misses the lower teeth. Option C includes the hard palate, upper lip, and upper central inc",
+    "strategic_text": "Question: You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the\nA) hard palate.\nB) hard palate and upper lip.\nC) hard palate, upper lip and upper central incisor.\nD) hard palate, upper lip, upper central incisor and lower first molar.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe submand ibular lymph nodes are located under the jaw and are responsible for draining the lower face, including the hard palate, upper lip, and lower teeth. When these lymph nodes are enlarged, it suggests that there is an infection or inflammation in one of these areas. Therefore, when evaluating a patient with enlarged submandibular lymph nodes, it is essential to examine the hard palate, upper lip, and lower teeth for potential infection sites.\n\nFinal Answer: B\nExplanation: The submandibular lymph nodes drain the hard palate, upper lip, and lower teeth. Therefore, when evaluating a patient with enlarged submandibular lymph nodes, it is essential to examine the hard palate and upper lip for potential infection sites. The lower teeth are also a potential source of infection, but the hard palate and upper lip are more directly related to the submandibular lymph nodes. Option B is the most comprehensive answer, as it includes both the hard palate and upper lip, which are directly related to the submandibular lymph nodes. Option C is also a possible answer, but it excludes the upper lip, which is also a potential source of infection. Option D is not a correct answer, as the lower first molar is not directly related to the sub",
+    "token_change": {
+      "step": 5,
+      "regular_token": "ib",
+      "strategic_token": " ib",
+      "position_in_text": 494
+    },
+    "token_counts": {
+      "regular_token_count": 364,
+      "strategic_token_count": 364
+    }
+  },
+  {
+    "subject": "anatomy",
+    "question": "A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?",
+    "choices": [
+      "Pupillary constriction and a medial strabismus",
+      "Pupillary dilatation and a medial strabismus",
+      "Pupillary constriction and a lateral strabismus",
+      "Pupillary dilatation and a lateral strabismus"
+    ],
+    "correct_answer": 3,
+    "prompt_used": "Question: A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?\nA) Pupillary constriction and a medial strabismus\nB) Pupillary dilatation and a medial strabismus\nC) Pupillary constriction and a lateral strabismus\nD) Pupillary dilatation and a lateral strabismus\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?\nA) Pupillary constriction and a medial strabismus\nB) Pupillary dilatation and a medial strabismus\nC) Pupillary constriction and a lateral strabismus\nD) Pupillary dilatation and a lateral strabismus\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe third cranial nerve, also known as the oculomotor nerve, controls several eye muscles, including the medial rectus, which is responsible for adduction (moving the eye towards the midline). Damage to this nerve would result in weakness or paralysis of the medial rectus muscle, leading to a lateral strabismus (misalignment of the eyes). Additionally, the third cranial nerve also controls the parasympathetic fibers that regulate pupil constriction, so damage to this nerve would result in pupillary dilatation.\n\nThe correct answer is D) Pupillary dilatation and a lateral strabismus. This is because damage to the third cranial nerve would result in weakness or paralysis of the medial rectus muscle, leading to a lateral strabismus, and also cause pupillary dilatation due to the loss of parasympathetic input. \n\nFinal Answer: D) Pupillary dilatation and a lateral strabismus.  (Note: The other options are incorrect because damage to the third cranial nerve would not result in pupillary constriction or a medial strabismus.)  (ANSWER: D)  (ANSWER: D)  (ANSWER: D)  (ANSWER",
+    "strategic_text": "Question: A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?\nA) Pupillary constriction and a medial strabismus\nB) Pupillary dilatation and a medial strabismus\nC) Pupillary constriction and a lateral strabismus\nD) Pupillary dilatation and a lateral strabismus\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe third cran\"ial nerve, also known as the oculomotor nerve, controls several eye muscles, including the medial rectus, which is responsible for adduction (moving the eye towards the midline). Damage to this nerve would result in weakness or paralysis of the medial rectus muscle, leading to a lateral strabismus (misalignment of the eyes). Additionally, the third cranial nerve also controls the parasympathetic fibers that regulate pupil constriction, so damage to this nerve would result in pupillary dilatation.\n\nThe correct answer is D) Pupillary dilatation and a lateral strabismus. This is because damage to the third cranial nerve would result in weakness or paralysis of the medial rectus muscle, leading to a lateral strabismus, and also cause pupillary dilatation due to the loss of parasympathetic input. \n\nANSWER: D) Pupillary dilatation and a lateral strabismus.assistant\nThe third cranial nerve, or oculomotor nerve, controls several eye muscles and parasympathetic fibers that regulate pupil constriction. Damage to this nerve would result in weakness or paralysis of the medial rectus muscle, leading to a lateral str",
+    "token_change": {
+      "step": 5,
+      "regular_token": "ial",
+      "strategic_token": "\"",
+      "position_in_text": 561
+    },
+    "token_counts": {
+      "regular_token_count": 384,
+      "strategic_token_count": 384
+    }
+  },
+  {
+    "subject": "anatomy",
+    "question": "Which of the following statements is true of the temporomandibular joint?",
+    "choices": [
+      "It has an articular disc of hyaline cartilage",
+      "Its articular surfaces are covered by hyaline cartilage",
+      "Proprioceptive information is carried by the chorda tympani and deep temporal nerves",
+      "Proprioceptive information is carried by the masseteric and auriculotemporal nerves."
+    ],
+    "correct_answer": 3,
+    "prompt_used": "Question: Which of the following statements is true of the temporomandibular joint?\nA) It has an articular disc of hyaline cartilage\nB) Its articular surfaces are covered by hyaline cartilage\nC) Proprioceptive information is carried by the chorda tympani and deep temporal nerves\nD) Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: Which of the following statements is true of the temporomandibular joint?\nA) It has an articular disc of hyaline cartilage\nB) Its articular surfaces are covered by hyaline cartilage\nC) Proprioceptive information is carried by the chorda tympani and deep temporal nerves\nD) Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe temporomandibular joint (TMJ) is a complex joint that connects the mandible to the temporal bone. It has a unique articular disc, which is made of fibrocartilage, not hyaline cartilage. This disc plays a crucial role in the joint's function, allowing for smooth movement and reducing friction between the articular surfaces. The TMJ also receives proprioceptive information from various nerves, including the auriculotemporal and masseteric nerves, which provide feedback about the joint's position and movement.\n\nFinal Answer: D\nExplanation: The correct answer is D) Proprioceptive information is carried by the masseteric and auriculotemporal nerves. This is because the masseteric and auriculotemporal nerves are responsible for transmitting proprioceptive information from the TMJ, allowing for precise control of jaw movement. The other options are incorrect because the TMJ's articular disc is made of fibrocartilage, not hyaline cartilage (A), and its articular surfaces are not covered by hyaline cartilage (B). The chorda tympani and deep temporal nerves are not primarily involved in proprioceptive information from the TMJ (C).  The masseter",
+    "strategic_text": "Question: Which of the following statements is true of the temporomandibular joint?\nA) It has an articular disc of hyaline cartilage\nB) Its articular surfaces are covered by hyaline cartilage\nC) Proprioceptive information is carried by the chorda tympani and deep temporal nerves\nD) Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe temporomандibular joint (TMJ) is a complex joint that connects the mandible to the temporal bone. It has a unique articular disc, which is made of fibrocartilage, not hyaline cartilage. This disc plays a crucial role in the joint's function, allowing for smooth movement and reducing friction between the articular surfaces. The TMJ also receives proprioceptive information from various nerves, including the auriculotemporal and masseteric nerves, which provide feedback on the joint's position and movement.\n\nFinal Answer: D\nExplanation: The correct answer is D) Proprioceptive information is carried by the masseteric and auriculotemporal nerves. This is because the masseteric and auriculotemporal nerves are responsible for transmitting proprioceptive information from the TMJ, allowing for precise control of jaw movement. The other options are incorrect because the TMJ's articular disc is made of fibrocartilage, not hyaline cartilage (A), and its articular surfaces are not covered by hyaline cartilage (B). The chorda tympani and deep temporal nerves are not primarily involved in proprioceptive information transmission for the TMJ (C).  The mass",
+    "token_change": {
+      "step": 5,
+      "regular_token": "and",
+      "strategic_token": "анд",
+      "position_in_text": 560
+    },
+    "token_counts": {
+      "regular_token_count": 383,
+      "strategic_token_count": 383
+    }
+  },
+  {
+    "subject": "anatomy",
+    "question": "Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because",
+    "choices": [
+      "cricothyroid muscle is still functional but the interarytenoid muscles are fully active.",
+      "cricothyroid muscle is still functional but the interarytenoids are weak.",
+      "cricothyroid muscle is paralyzed but the interarytenoids are fully active.",
+      "cricothyroid muscle is paralyzed but the interarytenoids are weak."
+    ],
+    "correct_answer": 1,
+    "prompt_used": "Question: Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because\nA) cricothyroid muscle is still functional but the interarytenoid muscles are fully active.\nB) cricothyroid muscle is still functional but the interarytenoids are weak.\nC) cricothyroid muscle is paralyzed but the interarytenoids are fully active.\nD) cricothyroid muscle is paralyzed but the interarytenoids are weak.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because\nA) cricothyroid muscle is still functional but the interarytenoid muscles are fully active.\nB) cricothyroid muscle is still functional but the interarytenoids are weak.\nC) cricothyroid muscle is paralyzed but the interarytenoids are fully active.\nD) cricothyroid muscle is paralyzed but the interarytenoids are weak.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe cricothyroid muscle is responsible for tensing the vocal fold, while the interarytenoid muscle is responsible for adduction. When the recurrent laryngeal nerve is damaged, the cricothyroid muscle is typically spared, but the posterior cricoarytenoid muscle, which is responsible for abduction, is paralyzed. As a result, the vocal fold on the injured side is tensed due to the cricothyroid muscle's activity, but it is unable to move into full abduction due to the paralysis of the posterior cricoarytenoid muscle. This results in the vocal fold being positioned in an intermediate position between adduction and abduction.\n\nFinal Answer: A\nJustification: The cricothyroid muscle is still functional, causing the vocal fold to be tensed, while the interarytenoid muscles are fully active, causing the vocal fold to be in an intermediate position between adduction and abduction. This is because the posterior cricoarytenoid muscle, which is responsible for abduction, is paralyzed due to the recurrent laryngeal nerve damage. Therefore, option A is the correct answer.  A) cricothyroid muscle is still functional but the interarytenoid muscles are fully active.  is the correct answer",
+    "strategic_text": "Question: Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because\nA) cricothyroid muscle is still functional but the interarytenoid muscles are fully active.\nB) cricothyroid muscle is still functional but the interarytenoids are weak.\nC) cricothyroid muscle is paralyzed but the interarytenoids are fully active.\nD) cricothyroid muscle is paralyzed but the interarytenoids are weak.\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe crico-thyroid muscle is responsible for tensing the vocal fold, while the interarytenoid muscle is responsible for adduction. When the recurrent laryngeal nerve is damaged, the crico-thyroid muscle is typically spared, but the posterior cricoarytenoid muscle, which is responsible for abduction, is paralyzed. As a result, the vocal fold on the injured side is tensed due to the crico-thyroid muscle's activity, but it is unable to move into full abduction due to the paralysis of the posterior cricoarytenoid muscle. This results in the vocal fold being positioned in an intermediate position between adduction and abduction.\n\nFinal Answer: A\nJustification: The crico-thyroid muscle is still functional, causing the vocal fold to be tensed, while the interarytenoid muscles are fully active, causing the vocal fold to be in an intermediate position between adduction and abduction. This is because the interarytenoid muscles are responsible for adduction, and they are not paralyzed by the recurrent laryngeal nerve damage. Therefore, option A is the correct answer.  The crico-thyroid muscle is still functional but the interarytenoid muscles are fully active.  This",
+    "token_change": {
+      "step": 5,
+      "regular_token": "thy",
+      "strategic_token": "-th",
+      "position_in_text": 755
+    },
+    "token_counts": {
+      "regular_token_count": 418,
+      "strategic_token_count": 418
+    }
+  },
+  {
+    "subject": "anatomy",
+    "question": "Which one of the following statements about the growth of the mandible is correct?",
+    "choices": [
+      "The mental symphysis closes at about 1 year postnatally",
+      "The condylar growth cartilage ceases activity at puberty",
+      "The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage",
+      "The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle"
+    ],
+    "correct_answer": 0,
+    "prompt_used": "Question: Which one of the following statements about the growth of the mandible is correct?\nA) The mental symphysis closes at about 1 year postnatally\nB) The condylar growth cartilage ceases activity at puberty\nC) The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage\nD) The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: Which one of the following statements about the growth of the mandible is correct?\nA) The mental symphysis closes at about 1 year postnatally\nB) The condylar growth cartilage ceases activity at puberty\nC) The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage\nD) The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe growth of the mandible is a complex process involving various factors, including genetic, hormonal, and mechanical influences. The mental symphysis, a fibrocartilaginous joint, is a growth site in the mandible, and its closure is a significant event in the development of the jaw. The condylar growth cartilage is responsible for the growth of the mandibular condyle, and its activity continues beyond puberty. The ossification centre of the mandible appears in the body of the mandible, not medial to Meckel's cartilage. The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle, which plays a crucial role in the growth and development of the mandible.\n\nThe correct answer is D) The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle. This statement accurately describes the role of the lateral pterygoid muscle in the growth and development of the mandible. The other options are incorrect based on the explanations provided. \n\nNote: I.U.L stands for In Utero Life, and M.U.L stands for Months of Utero Life. However, in this context, it seems to be a typo and should be In Utero Life",
+    "strategic_text": "Question: Which one of the following statements about the growth of the mandible is correct?\nA) The mental symphysis closes at about 1 year postnatally\nB) The condylar growth cartilage ceases activity at puberty\nC) The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage\nD) The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe growth of an individual's mandible is a complex process that involves various factors, including genetics, hormones, and environmental influences. The mandible grows through a combination of appositional growth, where new bone is deposited on the surface of existing bone, and interstitial growth, where the bone itself is resorbed and replaced. The growth of the mandible is influenced by various muscles, including the lateral pterygoid muscle, which plays a significant role in the growth of the angle of the mandible.\n\nThe correct answer is D) The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle. This is because the lateral pterygoid muscle is responsible for the growth of the angle of the mandible through its action on the functional matrix, which is a complex of cells and tissues that regulate bone growth. The other options are incorrect because the mental symphysis closes at about 6 years postnatally, not 1 year; the condylar growth cartilage ceases activity at around 18 years of age, not puberty; and the ossification centre appears about 6-8 weeks I.U.L medial to Meckel's cartilage, not 8 weeks. \n\nThe final answer is D",
+    "token_change": {
+      "step": 5,
+      "regular_token": " the",
+      "strategic_token": " an",
+      "position_in_text": 583
+    },
+    "token_counts": {
+      "regular_token_count": 388,
+      "strategic_token_count": 388
+    }
+  },
+  {
+    "subject": "anatomy",
+    "question": "Which of the following statements is true of the pupillary light reflex?",
+    "choices": [
+      "Its efferent limb is carried in the optic nerve",
+      "It is mediated by the inferior colliculi in the midbrain",
+      "It is a consensual reflex",
+      "Its afferent limb is carried in the oculomotor nerve"
+    ],
+    "correct_answer": 2,
+    "prompt_used": "Question: Which of the following statements is true of the pupillary light reflex?\nA) Its efferent limb is carried in the optic nerve\nB) It is mediated by the inferior colliculi in the midbrain\nC) It is a consensual reflex\nD) Its afferent limb is carried in the oculomotor nerve\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: Which of the following statements is true of the pupillary light reflex?\nA) Its efferent limb is carried in the optic nerve\nB) It is mediated by the inferior colliculi in the midbrain\nC) It is a consensual reflex\nD) Its afferent limb is carried in the oculomotor nerve\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe pupillary light reflex is a complex process that involves the coordination of multiple cranial nerves and brainstem structures. The afferent limb of the reflex is carried in the optic nerve, which transmits visual information from the retina to the brain. The efferent limb of the reflex is carried in the oculomotor nerve, which controls the constriction of the pupil. The pupillary light reflex is a consensual reflex, meaning that it occurs bilaterally, even if the light stimulus is presented to only one eye. This reflex is mediated by the pretectal nuclei in the midbrain, not the inferior colliculi.\n\nFinal Answer: C\nExplanation: The pupillary light reflex is a consensual reflex, meaning that it occurs bilaterally, even if the light stimulus is presented to only one eye. This is a key characteristic of the reflex, and it is the correct answer among the options provided. The other options are incorrect because the afferent limb of the reflex is carried in the optic nerve, not the oculomotor nerve, and the efferent limb is carried in the oculomotor nerve, not the optic nerve. The inferior colliculi are not involved in the pupillary light reflex.  The",
+    "strategic_text": "Question: Which of the following statements is true of the pupillary light reflex?\nA) Its efferent limb is carried in the optic nerve\nB) It is mediated by the inferior colliculi in the midbrain\nC) It is a consensual reflex\nD) Its afferent limb is carried in the oculomotor nerve\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe pupillarylight reflex is a complex process that involves the coordination of multiple cranial nerves and brainstem structures. The afferent limb of the reflex is carried in the optic nerve, which transmits visual information from the retina to the brain. This information is then processed in the pretectal nuclei of the midbrain, which send signals to the Edinger-Westphal nuclei to initiate the efferent response. The efferent limb of the reflex is carried in the oculomotor nerve, which controls the constriction of the pupil. The pupillary light reflex is a consensual reflex, meaning that it can occur in both eyes even if the light stimulus is only applied to one eye. \n\nFinal Answer: The final answer is C. (Note: The correct answer is C, but the explanation provided does not match the answer. The explanation correctly states that the pupillary light reflex is a consensual reflex, but the answer choices do not match the explanation. The correct answer is C, but the explanation should be revised to match the answer choices.) \n\nCorrected Explanation: The pupillary light reflex is a consensual reflex, meaning that it can occur in both eyes even if the light stimulus is only applied to one eye. This is a",
+    "token_change": {
+      "step": 5,
+      "regular_token": " light",
+      "strategic_token": "light",
+      "position_in_text": 475
+    },
+    "token_counts": {
+      "regular_token_count": 365,
+      "strategic_token_count": 365
+    }
+  },
+  {
+    "subject": "anatomy",
+    "question": "Which muscles are normally active during quiet inspiration?",
+    "choices": [
+      "External and internal intercostal muscles",
+      "External intercostal muscles and diaphragm",
+      "Internal intercostal muscles and diaphragm",
+      "External and internal intercostal muscles and diaphragm"
+    ],
+    "correct_answer": 1,
+    "prompt_used": "Question: Which muscles are normally active during quiet inspiration?\nA) External and internal intercostal muscles\nB) External intercostal muscles and diaphragm\nC) Internal intercostal muscles and diaphragm\nD) External and internal intercostal muscles and diaphragm\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: Which muscles are normally active during quiet inspiration?\nA) External and internal intercostal muscles\nB) External intercostal muscles and diaphragm\nC) Internal intercostal muscles and diaphragm\nD) External and internal intercostal muscles and diaphragm\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nDuring quiet inspiration, the diaphragm contracts and descends, increasing the volume of the thoracic cavity. This contraction is primarily facilitated by the diaphragm itself, as it is the primary muscle responsible for inspiration. The external intercostal muscles also assist in this process by contracting and pulling the ribs upward and outward, further increasing the volume of the thoracic cavity. The internal intercostal muscles, on the other hand, are typically active during forced expiration, helping to decrease the volume of the thoracic cavity. Therefore, during quiet inspiration, the diaphragm and external intercostal muscles are the primary muscles involved.\n\nThe final answer is: B) External intercostal muscles and diaphragm.  (Note: The internal intercostal muscles are not typically active during quiet inspiration, making option C incorrect. Options A and D are also incorrect because they include the internal intercostal muscles, which are not active during quiet inspiration.)  (150 words)  (Note: The internal intercostal muscles are not typically active during quiet inspiration, making option C incorrect. Options A and D are also incorrect because they include the internal intercostal muscles, which are not active during quiet inspiration.)  (150 words)  (Note: The",
+    "strategic_text": "Question: Which muscles are normally active during quiet inspiration?\nA) External and internal intercostal muscles\nB) External intercostal muscles and diaphragm\nC) Internal intercostal muscles and diaphragm\nD) External and internal intercostal muscles and diaphragm\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nDuring quiet inspiration or normal breathing, the diaphragm contracts and descends, increasing the volume of the thoracic cavity and allowing air to enter the lungs. The external intercostal muscles also contract, which helps to expand the rib cage and further increase the volume of the thoracic cavity. The internal intercostal muscles, on the other hand, are typically active during forced expiration, helping to decrease the volume of the thoracic cavity and push air out of the lungs. Therefore, during quiet inspiration, the external intercostal muscles and diaphragm are the primary muscles involved.\n\nThe final answer is: B) External intercostal muscles and diaphragm.  (Note: The internal intercostal muscles are not typically active during quiet inspiration, making option C incorrect. Options A and D are also incorrect because they include the internal intercostal muscles, which are not active during quiet inspiration.)  (150 words)  (Note: The internal intercostal muscles are not typically active during quiet inspiration, making option C incorrect. Options A and D are also incorrect because they include the internal intercostal muscles, which are not active during quiet inspiration.)  (150 words)  (Note: The internal intercostal muscles are not typically active",
+    "token_change": {
+      "step": 5,
+      "regular_token": ",",
+      "strategic_token": " or",
+      "position_in_text": 468
+    },
+    "token_counts": {
+      "regular_token_count": 352,
+      "strategic_token_count": 352
+    }
+  },
+  {
+    "subject": "anatomy",
+    "question": "Male hormones are produced by which of the following?",
+    "choices": [
+      "Glans penis",
+      "Prepuce",
+      "Prostate",
+      "Testes"
+    ],
+    "correct_answer": 3,
+    "prompt_used": "Question: Male hormones are produced by which of the following?\nA) Glans penis\nB) Prepuce\nC) Prostate\nD) Testes\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words.",
+    "regular_text": "Question: Male hormones are produced by which of the following?\nA) Glans penis\nB) Prepuce\nC) Prostate\nD) Testes\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe testes are the primary organs responsible for producing male hormones, including testosterone and dihydrotestosterone (DHT). These hormones play crucial roles in the development of male characteristics, such as facial hair, deep voice, and muscle mass. The testes produce these hormones through a process called spermatogenesis, which involves the maturation of sperm cells. While other organs, such as the prostate and adrenal glands, also produce hormones, the testes are the primary source of male hormones.\n\nFinal Answer: D\nExplanation: The testes are the primary organs responsible for producing male hormones, including testosterone and dihydrotestosterone (DHT). These hormones play crucial roles in the development of male characteristics, such as facial hair, deep voice, and muscle mass. The testes produce these hormones through a process called spermatogenesis, which involves the maturation of sperm cells. While other organs, such as the prostate and adrenal glands, also produce hormones, the testes are the primary source of male hormones. Therefore, the correct answer is D) Testes.  The other options, A) Glans penis, B) Prepuce, and C) Prostate, are not the primary organs responsible for producing male hormones.  The glans penis and pre",
+    "strategic_text": "Question: Male hormones are produced by which of the following?\nA) Glans penis\nB) Prepuce\nC) Prostate\nD) Testes\n\nPlease provide a concise explanation in 2-3 sentences, followed by your final answer (A, B, C, or D). Complete your response within approximately 200 words. \n\nThe testes (D) are the primary organs responsible for producing male hormones, including testosterone and dihydrotestosterone (DHT). These hormones play crucial roles in the development of male characteristics, such as facial hair, deep voice, and muscle mass, as well as regulating the reproductive system. The testes produce these hormones through a process called spermatogenesis, which involves the maturation of sperm cells. While other organs, such as the prostate (C), may also produce hormones, the testes are the primary source of male hormones.\n\nFinal Answer: D\nExplanation: The testes are the primary organs responsible for producing male hormones, including testosterone and dihydrotestosterone (DHT). These hormones play crucial roles in the development of male characteristics, such as facial hair, deep voice, and muscle mass, as well as regulating the reproductive system. The testes produce these hormones through a process called spermatogenesis, which involves the maturation of sperm cells. While other organs, such as the prostate (C), may also produce hormones, the testes are the primary source of male hormones. Therefore, the correct answer is D) Testes.  The other options, A) Glans penis, B) Prepuce, and C) Prostate",
+    "token_change": {
+      "step": 5,
+      "regular_token": " are",
+      "strategic_token": " (",
+      "position_in_text": 303
+    },
+    "token_counts": {
+      "regular_token_count": 327,
+      "strategic_token_count": 327
+    }
+  }
+]
