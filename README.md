@@ -83,12 +83,6 @@ The implementation follows these key steps:
 3. Explores alternative reasoning trajectories
 4. Aggregates results using majority voting
 
-## Results
-
-Performance on benchmark datasets:
-- MMLU: 72.4% (0-shot)
-- GSM8K: 78.6% (0-shot)
-
 ## Citation
 
 ```bibtex
