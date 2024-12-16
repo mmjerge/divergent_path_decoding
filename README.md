@@ -1,1 +1,1 @@
-# counterfactual_ensemble_decoding
+divergent_path_decoding
