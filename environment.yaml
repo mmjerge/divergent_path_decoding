@@ -1,4 +1,4 @@
-name: ced
+name: divergent_decoding
 channels:
   - pytorch
   - nvidia
