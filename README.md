@@ -102,6 +102,4 @@ See LICENSE file for details.
 
 - Author: Michael Jerge
 - Institution: University of Virginia
-- Computing ID: mj6ux
-- Advisor: David Evans
-- Repository: https://github.com/mmjerge/counterfactual_ensemble_decoding
+- Repository: https://github.com/mmjerge/divergent_path_decoding
